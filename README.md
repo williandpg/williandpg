@@ -17,5 +17,4 @@
 <img align="center" alt="Will-GIT" height="30" width="40" " />
 <img align="center" alt="Will-GIT" height="30" width="40" " />
 <img align="center" alt="Will-GIT" height="30" width="40" " />
-<img align="center" alt="Will-GIT" height="30" width="40" " />
 </div>
