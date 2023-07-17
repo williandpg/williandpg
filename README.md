@@ -9,11 +9,11 @@
     
 <div id="content">
   <p align="justify">
-    Olá! Sou um estudante em desenvolvimento Full Stack, com um foco no momento em Front-End. Tenho habilidades sólidas em HTML, CSS e JavaScript, e estou constantemente aprimorando meu conhecimento nessas tecnologias para criar interfaces incríveis e interativas.
+    Olá! Sou um estudante em desenvolvimento Full Stack, com um foco no momento em Front-End. Tenho habilidades sólidas em HTML, CSS e JavaScript, e estou constantemente aprimorando meu conhecimento nessas tecnologias.
 
-Além disso, sou experiente no uso do framework React e tenho habilidades em TypeScript, o que me permite desenvolver aplicações robustas e escaláveis. Estou sempre atualizado com as melhores práticas do setor e busco criar experiências de usuário excepcionais.
+Além disso, tenho experiência no uso do framework React e tenho habilidades em TypeScript, o que me permite desenvolver aplicações robustas e escaláveis.
 
-Paralelamente, estou embarcando em uma jornada de aprendizado no desenvolvimento Back-End e Ciência da Computação. Atualmente, estou estudando conceitos fundamentais, como bancos de dados, APIs e segurança. Estou explorando linguagens como Python e JavaScript para desenvolver minhas habilidades em Node.js e Flask, e estou ansioso para aplicar esses conhecimentos em projetos futuros.
+Paralelamente, estou embarcando em uma jornada de aprendizado no desenvolvimento Back-End e Ciência da Computação. Atualmente, estou estudando conceitos fundamentais, como bancos de dados, APIs e segurança. Estou explorando linguagens como Python e JavaScript para desenvolver minhas habilidades em Node.js e Flask, em breve vou aplicar esses conhecimentos em projetos futuros.
 
 Meu perfil GitHub é uma demonstração da minha evolução como desenvolvedor. Você encontrará uma coleção de repositórios que mostram minha jornada de aprendizado e minhas experiências ao longo do tempo. Desde projetos iniciais até soluções mais complexas, cada repositório reflete meu compromisso em aprender, crescer e melhorar como desenvolvedor.
   </p>
