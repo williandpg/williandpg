@@ -10,13 +10,19 @@
     
 <div id="content">
   <p align="justify">
-    Olá! Sou um desenvolvedor Full Stack apaixonado por criar experiências incríveis na web.
+    Olá! Sou um desenvolvedor Full Stack em constante aprendizado para criar experiências incríveis na web.
+  </p>
 
-No Front-End, meu domínio abrange HTML, CSS, JavaScript, React e TypeScript, permitindo-me desenvolver interfaces interativas e responsivas que cativam os usuários. Já no Back-End, mergulho nas tecnologias robustas do Node.js, utilizando MySQL para bancos de dados. Além disso, trago a eficiência do Docker para facilitar o desenvolvimento e a implantação de soluções escaláveis.
+  <p align="justify">
+    No Front-End, meu domínio abrange HTML, CSS, JavaScript, React e TypeScript, permitindo-me desenvolver interfaces interativas e responsivas que cativam os usuários. Já no Back-End, mergulho nas tecnologias robustas do Node.js, utilizando MySQL para bancos de dados. Além disso, trago a eficiência do Docker para facilitar o desenvolvimento e a implantação de soluções escaláveis.
+  </p>
 
-Atualmente, estou imerso no universo Java, expandindo meu repertório para incluir tecnologias avançadas como o Spring Boot. Paralelamente, estou explorando o Angular para fortalecer ainda mais meu conjunto de habilidades.
+  <p align="justify">
+    Atualmente, estou imerso no universo Java, expandindo meu repertório para incluir tecnologias avançadas como o Spring Boot. Paralelamente, estou explorando o Angular para fortalecer ainda mais meu conjunto de habilidades.
+  </p>
 
-Meu perfil GitHub é uma demonstração da minha evolução como desenvolvedor. Você encontrará uma coleção de repositórios que mostram minha jornada de aprendizado e minhas experiências ao longo do tempo. Desde projetos iniciais até soluções mais complexas, cada repositório reflete meu compromisso em aprender, crescer e melhorar como desenvolvedor.
+  <p align="justify">
+    Meu perfil GitHub é uma demonstração da minha evolução como desenvolvedor. Você encontrará uma coleção de repositórios que mostram minha jornada de aprendizado e minhas experiências ao longo do tempo. Desde projetos iniciais até soluções mais complexas, cada repositório reflete meu compromisso em aprender, crescer e melhorar como desenvolvedor.
   </p>
 </div>
 
