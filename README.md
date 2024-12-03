@@ -14,11 +14,11 @@
   </p>
 
   <p align="justify">
-    No Front-End, meu domínio abrange HTML, CSS, JavaScript, React e TypeScript, permitindo-me desenvolver interfaces interativas e responsivas que cativam os usuários. Já no Back-End, mergulho nas tecnologias robustas do Node.js, utilizando MySQL para bancos de dados. Além disso, trago a eficiência do Docker para facilitar o desenvolvimento e a implantação de soluções escaláveis.
+    No Front-End, domino HTML, CSS, JavaScript, React e TypeScript, o que me permite desenvolver interfaces modernas, interativas e responsivas. No Back-End, utilizo tecnologias robustas como Node.js e Java com Spring Boot, combinadas com MySQL para gerenciar dados de maneira eficiente. Também utilizo Docker para simplificar o desenvolvimento e a implantação de aplicações escaláveis.
   </p>
 
   <p align="justify">
-    Atualmente, estou imerso no universo Java, expandindo meu repertório para incluir tecnologias avançadas como o Spring Boot. Paralelamente, estou explorando o Angular para fortalecer ainda mais meu conjunto de habilidades.
+    Atualmente, estou aprofundando meus conhecimentos em Python e explorando o Angular para ampliar meu conjunto de habilidades e criar soluções ainda mais completas.
   </p>
 
   <p align="justify">
