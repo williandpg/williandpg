@@ -26,7 +26,10 @@
   </p>
 </div>
 
-<div id="stats" align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=williandpg&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Willian P. Gonçalves github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandpg&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+<div align="center">
+<h3 align="center">Github Stats</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=williandpg&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williandpg&theme=aura)
+
 </div>
